@@ -15,9 +15,9 @@ function App() {
       <div>
 
         <NavBar/>
-        <h1>{saludo}</h1>
+ {/*        <h1>{saludo}</h1> */}
         <ItemListContainer saludo={"Bienvenidos a mi Ecommerce"}/>
-        <EjemploContador/>
+ {/*        <EjemploContador/>
         <ComponentePadre>
           <h2>Saludos desde app</h2>
           <p>Descripcion</p>
@@ -26,7 +26,7 @@ function App() {
 
         <ComponentePadre>
           <h3>otro ComponentePadre</h3>
-        </ComponentePadre>
+        </ComponentePadre> */}
 
       </div>
     
