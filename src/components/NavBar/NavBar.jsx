@@ -1,5 +1,5 @@
 
-import "./navbar.scss"
+import "./navbar.css"
 import logo from "../../img/logo.png" 
 import CartWidget from "./CartWidget"
 
