@@ -1,10 +1,13 @@
 
+
+import "./navbar.css"
 import { FaCartArrowDown } from "react-icons/fa";
 
 const CartWidget = () => {
     return (
-      <div>
-        <FaCartArrowDown className="carrito" size={50} />
+      <div className="carrito">
+        <FaCartArrowDown className="img" size={30} />
+        <p className="cantidadCarrito">1</p>
        
       </div>
     );
