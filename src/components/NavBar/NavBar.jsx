@@ -16,13 +16,13 @@ const NavBar = () => {
             <a className="nav-link active" aria-current="page" href="#">Inicio</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">Cursos</a>
+            <a className="nav-link" href="https://www.coderhouse.com/ar/" target="_blank">Cursos</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">Ebooks</a>
+            <a className="nav-link" href="https://www.coderhouse.com/ar/" target="_blank">Ebooks</a>
           </li>
           <li className="nav-item">
-          <a className="nav-link" href="#">Contacto</a>
+          <a className="nav-link" href="https://www.coderhouse.com/ar/" target="_blank">Contacto</a>
           </li>
         </ul>
         <CartWidget/>
@@ -35,17 +35,3 @@ const NavBar = () => {
 
 export default NavBar
 
-{/* <nav className="navbar">
-
-<div className="brand">
-  <img src={logo} width={150} alt="" />
-</div>
-    { <ul>
-        <li>Inicio</li>
-        <li>Cursos</li>
-        <li>Ebooks</li>
-        <li>Sobre Nosotros</li>
-        <li>Contacto</li>
-    </ul> }
-    <CartWidget/>
-</nav> */}
