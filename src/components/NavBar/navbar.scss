@@ -6,11 +6,33 @@
     font-size: 1.3em;
 }
 
+.brand{
+    padding-left: 1em;
+}
 .carrito{
     padding-right: 1.2em;
     font-size:large;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.carrito .img:hover{
+    opacity: 100%;
+}
+.carrito .img{
+    opacity: 20% ;
+    
+}
+.carrito .img:hover{
+    opacity: 100%;
+    cursor: pointer;
 }
 
-.brand{
-    padding-left: 1em;
+
+.cantidadCarrito{
+    position: absolute;
+    padding-top: 0.5em;
+    font-size: 1.3em;
+    color: red;
 }
