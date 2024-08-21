@@ -28,8 +28,8 @@
     },
     {
         "id": 4,
-        "titulo": "Apple iPad Pro 12.9\"",
-        "descripcion": "El iPad Pro de 12.9\" ofrece un rendimiento sobresaliente con su chip M1 y una pantalla Liquid Retina de alta resolución.",
+        "titulo": "Apple iPad Pro 12.9",
+        "descripcion": "El iPad Pro de 12.9 ofrece un rendimiento sobresaliente con su chip M1 y una pantalla Liquid Retina de alta resolución.",
         "categoria": "tablets",
         "imagen": "https://images.pexels.com/photos/5666367/pexels-photo-5666367.jpeg",
         "precio": 1099,

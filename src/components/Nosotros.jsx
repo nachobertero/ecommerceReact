@@ -4,7 +4,7 @@ import { useEffect } from "react"
 const Nosotros = () => {
 
     const clickear = () => {
-        console.log('Click')
+        console.log('Desde función Clickear')
     }
     useEffect(() => {
         window.addEventListener('click', clickear)
